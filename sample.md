@@ -1,6 +1,5 @@
 # sample
 
-- kazuhiria
-- hitode
-- pastak
-  - windymelt
+- kazuhira
+  - https://blog.kazuhira.net/
+  - This is my blog
